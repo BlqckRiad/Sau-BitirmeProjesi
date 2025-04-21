@@ -1,2 +1,27 @@
-# Auto detect text files and perform LF normalization
+# Metin dosyaları için satır sonu normalleştirme
 * text=auto
+
+# C# kaynak kodları
+*.cs diff=csharp
+
+# JSON, XML ve benzeri dosyaları text olarak işleme
+*.json text
+*.xml text
+*.config text
+*.js text
+*.ts text
+*.tsx text
+*.jsx text
+*.css text
+*.scss text
+*.html text
+
+# Binary dosyaları (diff yapılmasın)
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.dll binary
+*.exe binary
+*.pdf binary
