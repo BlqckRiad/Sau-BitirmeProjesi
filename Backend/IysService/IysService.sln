@@ -5,15 +5,15 @@ VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ApiConsume", "ApiConsume", "{75312E61-634F-4042-972B-610AC2069F44}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IysService.EntityLayer", "ApiConsume\IysService.EntityLayer\IysService.EntityLayer.csproj", "{BF4EEAE1-DF52-41B9-BBEF-052A8DC44550}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IysService.EntityLayer", "ApiConsume\IysService.EntityLayer\IysService.EntityLayer.csproj", "{BF4EEAE1-DF52-41B9-BBEF-052A8DC44550}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IysService.DtoLayer", "ApiConsume\IysService.DtoLayer\IysService.DtoLayer.csproj", "{5D2E176F-9424-422F-BE30-4083E1D34DAF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IysService.DtoLayer", "ApiConsume\IysService.DtoLayer\IysService.DtoLayer.csproj", "{5D2E176F-9424-422F-BE30-4083E1D34DAF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IysService.DataAccessLayer", "ApiConsume\IysService.DataAccessLayer\IysService.DataAccessLayer.csproj", "{0079BE8B-D51F-4B42-9FA0-56D22D59F1EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IysService.DataAccessLayer", "ApiConsume\IysService.DataAccessLayer\IysService.DataAccessLayer.csproj", "{0079BE8B-D51F-4B42-9FA0-56D22D59F1EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IysService.BusinessLayer", "ApiConsume\IysService.BusinessLayer\IysService.BusinessLayer.csproj", "{498C8FD4-6580-49F2-A21E-D45FBCB6FAE4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IysService.BusinessLayer", "ApiConsume\IysService.BusinessLayer\IysService.BusinessLayer.csproj", "{498C8FD4-6580-49F2-A21E-D45FBCB6FAE4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IysService.API", "ApiConsume\IysService.API\IysService.API.csproj", "{F52EF67A-BE3E-4F1E-912B-FABF3E20EEBE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IysService.API", "ApiConsume\IysService.API\IysService.API.csproj", "{F52EF67A-BE3E-4F1E-912B-FABF3E20EEBE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

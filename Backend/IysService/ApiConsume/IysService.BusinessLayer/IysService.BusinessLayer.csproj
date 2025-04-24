@@ -21,4 +21,10 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\IysService.DataAccessLayer\IysService.DataAccessLayer.csproj" />
+    <ProjectReference Include="..\IysService.DtoLayer\IysService.DtoLayer.csproj" />
+    <ProjectReference Include="..\IysService.EntityLayer\IysService.EntityLayer.csproj" />
+  </ItemGroup>
+
 </Project>
